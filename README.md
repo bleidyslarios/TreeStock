@@ -38,6 +38,11 @@ EA3-TreeStock/
 ├── Producto.java          # Nodo del árbol (datos + punteros)
 ├── ArbolInventario.java   # Lógica del árbol
 ├── Main.java              # Menú interactivo
+├── capturas/
+│   ├── cap1-menu.png
+│   ├── cap2-registro.png
+│   ├── cap3-inventario.png
+│   └── cap4-busqueda.png
 └── README.md
 ```
 
@@ -73,16 +78,16 @@ java Main
 ## Evidencias de ejecución
 
 ### Menú principal
-![descripcion](cap1-menu.png)
+![descripcion](capturas/cap1-menu.png)
 
 ### Registro de productos
-![descripcion](cap2-registro.png)
+![descripcion](capturas/cap2-registro.png)
 
 ### Inventario ordenado
-![descripcion](cap3-inventario.png)
+![descripcion](capturas/cap3-inventario.png)
 
 ### Búsqueda de producto
-![descripcion](cap4-busqueda.png)
+![descripcion](capturas/cap4-busqueda.png)
 
 ---
 
